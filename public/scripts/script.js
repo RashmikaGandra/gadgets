@@ -2,17 +2,17 @@ import { createFragments, ELEMENTS } from "./dom.js";
 
 const { DIV, H3, IMG, P, SPAN } = ELEMENTS;
 
-const fetchGadgets = async () => [];
+const fetchGadgets = async () =>
+  fetch("gadgets-data").then((data) => data.json());
 
-const displayGadgets = (_gadgets, container) => {
+const displayGadgets = ({ name, category, description, img }, container) => {
   const element = [DIV, { class: "gadget" }, [
     DIV,
     { class: "image-container" },
     [IMG, {
       class: "image",
-      alt: "any where door",
-      src:
-        "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/1.png",
+      alt: name,
+      src: img,
     }, ""],
   ], [
     DIV,
@@ -21,9 +21,9 @@ const displayGadgets = (_gadgets, container) => {
     [
       P,
       { class: "description" },
-      "A portal that can transport the user to any location instantaneously",
+      description,
     ],
-    [SPAN, { class: "category" }, "Time-Space"],
+    [SPAN, { class: "category" }, category],
   ]];
   const child = createFragments(element);
   container.append(child);
@@ -31,6 +31,6 @@ const displayGadgets = (_gadgets, container) => {
 
 window.onload = (e) => {
   const container = document.querySelector(".gadget-container");
-  fetchGadgets().then((gadgets) => displayGadgets(gadgets, container));
+  fetchGadgets().then((gadgets) => displayGadgets(gadgets[0], container));
   console.log("window loaded");
 };
