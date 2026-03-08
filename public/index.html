@@ -10,17 +10,29 @@
       <h2>DOREMON GADGETS</h2>
     </header>
     <main>
-      <div class="search-bar">
+      <div class="nav-bar">
         <div class="filter">
-          <h4>Filter:</h4>
+          <h3>Filter</h3>
           <ul>
-            <li><a class="Time-Space" href="Time-Space">Time-Space</a></li>
-            <li><a class="Combat" href="Combat">Combat</a></li>
+            <li><a class="Time-Space link" href="Time-Space">Time-Space</a></li>
+            <li><a class="Combat link" href="Combat">Combat</a></li>
             <li>
-              <a class="Transformation" href="Transformation">Transformation</a>
+              <a class="Transformation link" href="Transformation"
+              >Transformation</a>
             </li>
-            <li><a class="Daily-Use" href="Daily-Use">Daily-Use</a></li>
+            <li><a class="Daily-Use link" href="Daily-Use">Daily-Use</a></li>
           </ul>
+        </div>
+        <div>
+          <form action="" id="form-section">
+            <label for="category"><h3>Category</h3></label>
+            <input
+              type="text"
+              name="category"
+              id="search-category"
+              placeholder="Enter a category"
+            >
+          </form>
         </div>
       </div>
       <div class="gadget-container"></div>
