@@ -9,6 +9,7 @@ export const createApp = () => {
     "gadgets-data",
     serveStatic({ root: "data", path: "gadgets_data.json" }),
   );
+  app.get("/:type?", serveStatic({ root: "public", path: "index.html" }));
   app.get("*", serveStatic({ root: "public" }));
   return app;
 };

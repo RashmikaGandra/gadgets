@@ -1,8 +1,1358 @@
 [
   {
-    "name": "Any Where Door",
-    "category": "Time-Space",
-    "description": "A portal that can transport the user to any location instantaneously",
-    "img": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/1.png"
+    "name": "Anywhere Door",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/1.png",
+    "info": "A portal that can transport the user to any location instantaneously.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Take-Copter",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/2.png",
+    "info": "A small helicopter-like device that allows the user to fly and travel quickly.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Time Machine",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/3.png",
+    "info": "Travel through time, past or present, on this ride. It is connected inside Noby39s desk drawer.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Memory Bread",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/4.png",
+    "info": "Take this loaf of bread and place it on writing that you want to memorize, eat it, and its in your head.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Small Light",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/5.png",
+    "info": "Anything will become smaller when it is lit with this.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Translation Jelly",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/6.png",
+    "info": "Eat this and youll understand any language.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Time Cloth",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/7.png",
+    "info": "A cloth that allows the user to time travel by wrapping it around themselves.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Time TV",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/8.png",
+    "info": "A device that allows the user to watch past or future events on television.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Air Cannon",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/9.png",
+    "info": "A device that can create a gust of wind to propel the user.",
+    "category": "Combat"
+  },
+  {
+    "name": "Invisibility Cape",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/10.png",
+    "info": "Wear this cape and you will become invisible, and no one would see you.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Computer Pencil",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/11.png",
+    "info": "When one writes something with it, it will write the correct answer no matter what.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Space Capsule",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/12.png",
+    "info": "Space Capsule is a gadget that can transport its user to any location in the universe.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Substitution Rope",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/13.png",
+    "info": "The Substitution Rope is a gadget that allows the user to switch places with another object or person.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Gravity Paint",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/14.png",
+    "info": "A gadget that allows the user to paint in mid-air by manipulating gravity.",
+    "category": "Combat"
+  },
+  {
+    "name": "Hypnosis Pendulum",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/15.png",
+    "info": "A gadget that allows the user to control the minds of others.",
+    "category": "Combat"
+  },
+  {
+    "name": "Big Light",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/16.png",
+    "info": "A gadget that emits a bright beam of light capable of illuminating large areas or blinding enemies temporarily.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Scheduler Clock",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/17.png",
+    "info": "The Scheduler Clock is used to plan events of any kind",
+    "category": "Time-Space"
+  },
+  {
+    "name": "The Woodcutters Pond",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/18.png",
+    "info": "Drop something in this and a spirit android appears!",
+    "category": "Combat"
+  },
+  {
+    "name": "Lie Speaker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/19.png",
+    "info": "Hold this bullhorn up to your mouth and tell a lie, and that lie will then become truth.",
+    "category": "Combat"
+  },
+  {
+    "name": "Invitation Pill",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/20.png",
+    "info": "Invitation Pillis a gadget to use on someone whom you want to call to a certain place.",
+    "category": "Combat"
+  },
+  {
+    "name": "Animal Beam",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/21.png",
+    "info": "Aim the light on anyone and he/she will turn into an animal.",
+    "category": "Combat"
+  },
+  {
+    "name": "Skyhorse",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/22.png",
+    "info": "This is a new creature of the 22nd century  a fusion of a horse and a bamboo",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Magic Encylopedia",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/23.png",
+    "info": "The user can use it to do any kind of magic by writing the incantation/method in book and its \"spell effect\"",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Random Disk",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/24.png",
+    "info": "It may be used for a number of purposes, hence the name \"random\"",
+    "category": "Combat"
+  },
+  {
+    "name": "Lost & Found Fishing Pond",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/25.png",
+    "info": "Tell this gadget what you have lost and where you lost it.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Season Selector",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/26.png",
+    "info": "Dial to one of the four seasons and it will immediately turn into that season.",
+    "category": "Combat"
+  },
+  {
+    "name": "Indoor Fishing Pond",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/27.png",
+    "info": "This will display waters of an ocean or river in 4-D.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Teru Teru Bozu",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/28.png",
+    "info": "When the user raises the rod, the rain will stop.",
+    "category": "Combat"
+  },
+  {
+    "name": "Almighty Pass",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/29.png",
+    "info": "This gadget is used to make the user pass into any place.",
+    "category": "Combat"
+  },
+  {
+    "name": "Guiding Angel",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/30.png",
+    "info": "Put this on your hand and ask for advice and it will tell what would be the best for you.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Image Light Cap",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/31.png",
+    "info": "If someone puts the cap on and points it at an incident that is happening at the moment, it will change and turn into what the user thinks will happen.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Flattening Iron",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/32.png",
+    "info": "Use this gadget against any object (also works on people) and it will turn the object into a paper-like thinness.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Peko Peko Grasshopper",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/33.png",
+    "info": "The Peko Peko Grasshopper will jump into a person39s nose to the point of where the target will eventually cry and beg for forgiveness.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Tax Bird",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/34.png",
+    "info": "Tax Birdis a gadget that collects tax out of your income money, savings, and allowance. The tax increases proportionately for those who have more money.",
+    "category": "Combat"
+  },
+  {
+    "name": "Whooshinator",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/35.png",
+    "info": "Turn on this fan, and itll create strong winds thatll blow anything away.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Any-Maker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/36.png",
+    "info": "Just as its name suggests the gadget is capable of making and copying anything.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Voodoo Camera",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/37.png",
+    "info": "When used, Voodoo Camera is able to spawn voodoo dolls relevant to the targeted person.",
+    "category": "Combat"
+  },
+  {
+    "name": "Railroad Crossing Kit",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/38.png",
+    "info": "Place it on the ground and anything that is behind or in front it will be forced to stop and cannot go ahead or cross the line.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Spy Set",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/39.png",
+    "info": "The whole Spy Set looks like a head of a robot with one eye and a left ear. The 39head39 has an antenna, which receives transmissions from the eye and ear.",
+    "category": "Combat"
+  },
+  {
+    "name": "Denkomaru",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/40.png",
+    "info": "The Denkomaru acts as a parrying weapon and also doubles as an instant knock-out finisher.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Instant Chocolate Maker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/41.png",
+    "info": "When an object is placed on the gadget, the gadget produces a chocolate with the shape of the certain object. The chocolate produced by the gadget is delicious.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Transformation Headband",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/42.png",
+    "info": "The gadget gives the wearer girly hairstyle, skirt, pink-cheek, lipstick and long eyelashes. If the wearer tells their fake name while wearing it.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Sampling Spoon",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/43.png",
+    "info": "Using the gadget, the user can taste samples of several foods from the magazines, books or pictures.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Action Quizzer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/44.png",
+    "info": "A quiz game  you answer questions by actually going all over the world, using a gadget of the future. 4 quizzes make 1 round, and when you're correct you'll get a gold medal.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Blind Spot Stars",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/45.png",
+    "info": "By wearing this gadget, the user becomes 39invisible39 through the physiological effect of other people39s blind spot.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Dream DirectorS Chair",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/46.png",
+    "info": "Sit in this and youll be able to direct and change what someone else is dreaming about.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Doc In A Box",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/47.png",
+    "info": "Put the sensor on the patient, and it will tell you the name of your disease. Itll give you medicine to cure it too.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Imitation Dummy",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/48.png",
+    "info": "The Imitation Dummy may copy a person39s appearance and other aspects on command.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Various Soda Set",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/49.png",
+    "info": "The gadget consists of six glasses of soda of different \"flavors\" packaged in a carrier.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Transformade",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/50.png",
+    "info": "Drink this, and think of an animal that you would like to be, and you'll be able to transform yourself into that creature",
+    "category": "Transformation"
+  },
+  {
+    "name": "Robinson Crusoe Set",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/51.png",
+    "info": "Haped like a barrel, containing items like 'My House Gas' and 'Food-Seeking Glasses' to help survive on an uninhabited island.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Spartan-Style Overcoming Tablets",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/52.png",
+    "info": "The gadget has the objective to make a user overcome his fear by making it more frightening.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Doublixir",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/53.png",
+    "info": "A drop of this potion on something  and it doubles every 5 minutes.",
+    "category": "Transformation"
+  },
+  {
+    "name": "White Water Mountain",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/54.png",
+    "info": "It is a mini mountain model where Matsutake can be grown with a little changes.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Squarer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/55.png",
+    "info": "Drink this, and it makes mellow people turn square, sharp, tight and strict.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Flowering Ash",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/56.png",
+    "info": "By sowing this ash, beautiful flowers can bloom anywhere, including in the air.",
+    "category": "Combat"
+  },
+  {
+    "name": "Dress-Up Camera",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/57.png",
+    "info": "The Dress Up Camera is able to override the person39s attire with whatever image inserted inside it.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Adaptation Light",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/58.png",
+    "info": "When used upon someone, the gadget allows them to live in any environment like under-water or in space.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Flashbang",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/59.png",
+    "info": "The Flashbang causes a loud yet harmless explosion and a gust of smoke upon detonation.",
+    "category": "Combat"
+  },
+  {
+    "name": "Spiritual Lei",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/60.png",
+    "info": "A gadget that allow the wearer to transform into any type of ghosts they want to.",
+    "category": "Combat"
+  },
+  {
+    "name": "Realpedia",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/61.png",
+    "info": "Open the page and slap the spine of this book, and out comes the real thing!",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Dreamer Tv",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/62.png",
+    "info": "Take a look at someone elses nightly dreams with this television.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Buddy Beacon & Remote",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/63.png",
+    "info": "Stick the capsule on your targets body and switch on the remote, and the person will absolutely love you as a best friend.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Over-Exaggerating Overcoat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/64.png",
+    "info": "This item greatly exaggerates everything around the user as long as it remains on them.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Cancellation Eraser",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/65.png",
+    "info": "The Cancellation Eraser is for revoking the effect of the gadget pen, Face-Doodling Pen.",
+    "category": "Combat"
+  },
+  {
+    "name": "Esper Hat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/66.png",
+    "info": "Its function is to use ESP Training if you use your mind",
+    "category": "Combat"
+  },
+  {
+    "name": "Invisibility Lacquer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/67.png",
+    "info": "Spray this on an object, and it will become invisible.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Infinity Lasso",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/68.png",
+    "info": "A strike of these ropes and youll be able to pull over anything from anywhere.",
+    "category": "Combat"
+  },
+  {
+    "name": "The Life Do-Over Machine",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/69.png",
+    "info": "The Do-Over Machine can let the user to do-over machine in \"that\" age that user wants.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Hundred-Year Capsule",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/70.png",
+    "info": "A time-machine capsule turn the dial to red and it will take you 100 years in the past turn it to blue and you're 100 years in the future instantly.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Dupli-Mirror",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/71.png",
+    "info": "Duplicate anything you want by showing it through the mirror.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Bounce Back Cape",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/72.png",
+    "info": "Wave this cape and you can fend off anything.",
+    "category": "Combat"
+  },
+  {
+    "name": "Insect Pills",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/73.png",
+    "info": "It gives the user the power to fly like a butterfly.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Helping Hand Spray",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/74.png",
+    "info": "Users have to put their hands in the gas that comes out and it will make gloves out of the hands.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Time Valve",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/75.png",
+    "info": "You can adjust the flow of time with this.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Dividing Blade",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/76.png",
+    "info": "It allows the user to divide anything into two or more pieces by cutting it with the sword.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Genie-Less Magic Lamp",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/77.png",
+    "info": "Point the lamp towards someone and say his/her name, and that person will get sucked inside!",
+    "category": "Combat"
+  },
+  {
+    "name": "Space Wars Game Set",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/78.png",
+    "info": "A game from the future, which protects a three-dimensional image of outer space throughout your room while you pilot a mini fighter spaceship.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Storybook Slippers",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/79.png",
+    "info": "Wear these shoes and step on a picture book, and you'll be able to go into the world of that book.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Time Belt",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/80.png",
+    "info": "This is what you would use when for some reason you cant use the Time Machine. It can make you move back and forth in time, but you cannot specify a location.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Compact 2-D Camera",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/81.png",
+    "info": "It can store anything as a photograph, making cleaning up a breeze. Just pour hot water on the photo to return the object to its original state.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Imprinting Egg",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/82.png",
+    "info": "The user will need to put a person inside the gadget. After 15 minutes, he/she will be in love with the first person.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Work Map Set",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/83.png",
+    "info": "This gadget allows the user to experience work. By stabbing the attached pin into the place where he wants to work.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Teleporting Submarine",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/84.png",
+    "info": "It can teleport from one body of water to another. Grows or shrinks in size depending on the spaciousness of the water body. It39s in its normal size when it39s on land.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Helping Hat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/85.png",
+    "info": "The Helping Hat has an antennae that detects the nearest person in trouble and guides its user to them. It seems to have a set range.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Hustler",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/86.png",
+    "info": "If one put this on his/her back and wind the screw, his/her movement will be quicker and will be able to move smoothly.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Hardship Miso",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/87.png",
+    "info": "One taste of this miso, and anything you do will end up being hard and painful for you.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Timed Stupidity Bomb",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/88.png",
+    "info": "The bomb has a timer that must be activated before it can detonate. If anything was caught in its area of effect.",
+    "category": "Combat"
+  },
+  {
+    "name": "Dream Projector",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/89.png",
+    "info": "Point the antenna to someone who is dreaming in their sleep, and you'll receive the dream. You can project it on the Dream Screen to see.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Polarity Patches",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/90.png",
+    "info": "Like magnets, people wearing the same patches will repel, and those wearing the opposite patches will attract.",
+    "category": "Combat"
+  },
+  {
+    "name": "MoodmakerOrchestra",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/91.png",
+    "info": "Listen to the music this orchestra plays  and it will enhance your mood, making you joyful or tearful depending on the music.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Absconding Leaf",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/92.png",
+    "info": "Place this leaf on the head of a Japanese raccoon-dog or another weak animal in the same genus (such as a dog).",
+    "category": "Transformation"
+  },
+  {
+    "name": "Danger Bomb",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/93.png",
+    "info": "The Danger Bomb detonates after a set fuse time when thrown or upon being remotely triggered.",
+    "category": "Combat"
+  },
+  {
+    "name": "Truthbeaker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/94.png",
+    "info": "Put this on your mouth and tell a lie, and it would all become the truth!",
+    "category": "Combat"
+  },
+  {
+    "name": "Hermit House",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/95.png",
+    "info": "So strong it wont even break with explosives, youll be safe and sound living inside this. Its comfortable too!",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Animal Crackers",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/96.png",
+    "info": "These are crackers shaped like animals. Youll transfrom into the animal that you ate!",
+    "category": "Transformation"
+  },
+  {
+    "name": "Resolution Door",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/97.png",
+    "info": "First a user must tell what problems he/she want to solve and then he/she will go inside the door.",
+    "category": "Combat"
+  },
+  {
+    "name": "Magic Eyes",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/98.png",
+    "info": "The user places the eyes on a gadget and wears it. The gadget then creates an attraction electric wave that causes anyone who look at the user in the eyes to become attracted to them.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Ninja Action Gear",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/99.png",
+    "info": "Become a Ninja! Included: Ninja hood(makes you invisible), super sandals (makes you run fast & jump high).",
+    "category": "Combat"
+  },
+  {
+    "name": "Instant Robot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/100.png",
+    "info": "Assemble the robot parts and take a scan of a persons brain  and it will serve as a substitute for that person.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Incredible Fort",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/101.png",
+    "info": "It is a turret gadget that is about the size of a room, its user sets it somewhere, points it at someone and signal \"Fire!\", and anyone can shoot at will.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Sequence Spray",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/102.png",
+    "info": "Spray this on pictures and photos, and youll be able to see what happens next.",
+    "category": "Combat"
+  },
+  {
+    "name": "Mochi-Maker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/103.png",
+    "info": "A machine from the future which produces mochi, or Japanese rice cakes.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Instant Pitfall",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/104.png",
+    "info": "It is used to create a pitfall, which is basically something like a hole in the ground used for hiding.",
+    "category": "Combat"
+  },
+  {
+    "name": "Crude-But-Charming Spray",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/105.png",
+    "info": "Spray this on a poorly-drawn sketch, or badly-written song, and the spray will make it look and sound amazing.",
+    "category": "Combat"
+  },
+  {
+    "name": "Instant Wardrobe Cam",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/106.png",
+    "info": "Put a picture of clothes or fashon designs that you like in this camera and snap it at the person you want to dress.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Sokay Stick",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/107.png",
+    "info": "If you find someone who is extremely mad, put this wand over their moth and their anger wil be pacified!",
+    "category": "Combat"
+  },
+  {
+    "name": "Ship Bottler",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/108.png",
+    "info": "Ship Bottler is a gadget capable of making a miniature copy of any ship you find, and placing it in a bottle.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Pass Loop",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/109.png",
+    "info": "Put this loop where you want to pass through  you'll be able to go through any wall.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Amazing Maze",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/110.png",
+    "info": "Spin this, and it will mix up the rooms and hallways in the house, making the house into a maze.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Sooner-Or-Later Eyeballs",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/111.png",
+    "info": "Sooner-or-Later Eyeballs is a gadget. Set the dial to a certain time in the future, put them in your eyes, and you will be able to see what will happen at that point in the future.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "What-If Phone Booth",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/112.png",
+    "info": "The user must enter the booth, take the phone off, then say \"What if ____?\" , then set the phone down.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "X-Ray Machine And X-Ray Stickers",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/113.png",
+    "info": "Put one of the \"X-Ray Stickers\" on the surface of an object, and no matter how far away the object is.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Freeze Framer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/114.png",
+    "info": "Similar to a camera, it has a shutter, when the user presses the shutter, the targeted object/person will freeze.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Wild Beast-TamingPellets",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/115.png",
+    "info": "Any animal will obey you when they eat these pellets.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Time-Extender Ray",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/116.png",
+    "info": "Fire this ray, and it will make 10 minutes feel like one hour.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Just-As-You-Said Pills",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/117.png",
+    "info": "Take one of these, and the conditions around you will change to match anything you think or say.",
+    "category": "Combat"
+  },
+  {
+    "name": "Laughing Earbud",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/118.png",
+    "info": "If a person puts it in their ear, everything they hear turns into a joke that is very funny.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "The GorgonS Head",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/119.png",
+    "info": "A fearful gadget that turns people in to a rock with its laser beam that comes out from the eyes.",
+    "category": "Combat"
+  },
+  {
+    "name": "Stretchy Hand",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/120.png",
+    "info": "Grab hold of things far away with this hand.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Come To The Reverse World Oil",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/121.png",
+    "info": "Upon using, the portal to the Literal Mirror World opened at the virtual water that can soon be accessed.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Elder Tree Seed",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/122.png",
+    "info": "Designed to return the polluted and dying environment back to its original pure state as in the past, making it in a way a gigantic Time Machine.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Arrow Of Love",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/123.png",
+    "info": "Anyone whose hit by this arrow will fall in love with the person who made the shot. The effect will be released once the arrow is removed.",
+    "category": "Combat"
+  },
+  {
+    "name": "Urashima Candy",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/124.png",
+    "info": "When eaten, all acts of kindness by the user will be rewarded.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Gourmet Tablecloth",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/125.png",
+    "info": "Order what you'd like to eat to this tablecloth, and it'll give you any meal you want.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Fear Transferring Baton",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/126.png",
+    "info": "The gadget allows the user to transfer his fear to someone else for 24 hours.",
+    "category": "Combat"
+  },
+  {
+    "name": "Blueprinter",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/127.png",
+    "info": "No matter how bad the drawing is, it will re-create your blueprint into perfection.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Time Skipping Pulley",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/128.png",
+    "info": "The gadget allows the user to go ahead minutes or even years in time. But once skipped, he can never go back in time.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Black Belt",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/129.png",
+    "info": "Just tie that belt, and anything that is touched by the user will instantly be thrown off.",
+    "category": "Combat"
+  },
+  {
+    "name": "Thousand Needle Badge",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/130.png",
+    "info": "When this badge which is shaped like a trout is attached onto the user, any joke the others tell him will turn into reality.",
+    "category": "Combat"
+  },
+  {
+    "name": "Anything Controller",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/131.png",
+    "info": "When this gadget is placed on any thing, one will be able to control the thing.",
+    "category": "Combat"
+  },
+  {
+    "name": "Girlfriend Catalog",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/132.png",
+    "info": "The Girlfriend Catalog spawns out multiple images of future girlfriends one may have in the future.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Strong Odor Tracking Nose",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/133.png",
+    "info": "This gadget can be used to elevate the smell sense.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Pants Of The Jungle",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/134.png",
+    "info": "Wear these and youll be as strong as Tarzan! You would also be able to charm any animal.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Anywhere Hole",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/135.png",
+    "info": "If you place this gadget on the ground, it will automatically search for all holes on Earth and connect itself to one of them.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Shining Moss",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/136.png",
+    "info": "When the moss is sprinkled, especially in a dark area, it spreads all over the area very quickly and makes it bright.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Incident Bomb",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/137.png",
+    "info": "A gadget that will predict the user future disaster within ten to thirty seconds after activation.",
+    "category": "Combat"
+  },
+  {
+    "name": "Human Stamp Ink And Absorbing Paper",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/138.png",
+    "info": "The user has to spray the ink at the person he wants to get a full-body print on.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Cooking Badges",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/139.png",
+    "info": "Say the dishes you want to cook with the badge, and you will become a pro in cooking the dish. If you attach more badges, cooking recipes will come to mind.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Plus Vinegar And Minus Vinegar",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/140.png",
+    "info": "Users say something they want to increase with the Plus Vinegar and sprinkle it with the bottle using the Minus Vinegar will reduce or make disappear something.",
+    "category": "Combat"
+  },
+  {
+    "name": "Hermit Bot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/141.png",
+    "info": "This is a robot with the looks of an ragged old man, but if you help him he will grant you three wishes.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Decoy Robot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/142.png",
+    "info": "Simply place it in the ground and they will lure out the predator from its prey.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Mobile Fishing Lake",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/143.png",
+    "info": "The Mobile Fishing Lake allows it39s user to select a section of water, and then that section of water will be created in the center of the gadget.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Switcherator",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/144.png",
+    "info": "Makes you trade body parts with someone else.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Cold Transferer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/145.png",
+    "info": "A person with a cold can cough into one end of this gadget, and their cold will instantly be transferred to a person on the other end.",
+    "category": "Combat"
+  },
+  {
+    "name": "Super Gourmet Spice",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/146.png",
+    "info": "Sprinkle this on and any bad meal will become delicious.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Shadowcutter",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/147.png",
+    "info": "These scissors are for cutting out your shadow. The shadow will work for you at first, but as time goes by it gets smarter  and in 2 hours, it will try to replace you!",
+    "category": "Combat"
+  },
+  {
+    "name": "Instant Miniature-Making Camera",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/148.png",
+    "info": "Snap a picture with this camera, and it will instantly develop a miniature model that looks exactly like what you took a picture of.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Mole Gloves",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/149.png",
+    "info": "This gadget used to make hole in the ground or create underpass. This gadget can dig the deepest holes and cut through the ground like butter.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Tanabata Rocket",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/150.png",
+    "info": "To use the Tanabata Rocket, the user must use the tags to write the wish that they want, then attach it to the rocket and launch it to the space.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Lying Mirror",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/151.png",
+    "info": "The Lying Mirror merely shows an exaggerated reflection of their user.",
+    "category": "Combat"
+  },
+  {
+    "name": "SonicSolidifier",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/152.png",
+    "info": "Drink this and say something loud  and the words that you spoke will come out of your mouth in big block letters.",
+    "category": "Combat"
+  },
+  {
+    "name": "Lie 800",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/153.png",
+    "info": "When consumed, any events said by the user will forcibly occur in the other way around.",
+    "category": "Combat"
+  },
+  {
+    "name": "Fast And Slow Pills",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/154.png",
+    "info": "When one uses the Fast (Quick in the anime), they become really fast and can39t stop until it wears off.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Super Gloves",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/155.png",
+    "info": "Put these on and youll be super strong!",
+    "category": "Combat"
+  },
+  {
+    "name": "Wrestling Killer Z",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/156.png",
+    "info": "Wrestling Killer Zis the gadget that one uses to beat somebody up.",
+    "category": "Combat"
+  },
+  {
+    "name": "Indiscriminate Fad-Causing Virus",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/157.png",
+    "info": "Say any kind of fashion style or item while this virus is cultivating, then send it airborne. It39ll spread through the air, causing whatever you said to become the \"in-thing\".",
+    "category": "Combat"
+  },
+  {
+    "name": "Time-Ceiver",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/158.png",
+    "info": "Time-ceiveris a gadget to use when you want place an order for antiques over the phone.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Dream Tv",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/159.png",
+    "info": "As a TV gadget, it shows other people39s dreams. Changing the channel changes the direction and distance the TV scans for, allowing you to see anyone39s dreams.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Evo Devo Beam",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/160.png",
+    "info": "Reflect something with the evolution beam and it will evolve into something in the future do the same using the devolution beam and you'll be able to see what it looked like in the past.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Object -O- Hypnotizer",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/161.png",
+    "info": "Itll hypnotize anything that is not alive.",
+    "category": "Combat"
+  },
+  {
+    "name": "Pet Polish",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/162.png",
+    "info": "Rub this on a rock and shine it. The rock will come alive and will become attached to you just like a real pet dog.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Human Locomotive",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/163.png",
+    "info": "Put the chimmney on your head, eat the coal cookies and chug down water  youll feel the energy and run very fast!",
+    "category": "Transformation"
+  },
+  {
+    "name": "Lucky Cards",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/164.png",
+    "info": "Automatically grants wishes of the owner. For a wish granted, a card in the deck disappears. ",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Aladdin39S Lamp",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/165.png",
+    "info": "The Aladdin39s Lamp summons the smoke genie that will grant his master any wishes they want.",
+    "category": "Combat"
+  },
+  {
+    "name": "Study Bot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/166.png",
+    "info": "You give orders to this robot and it does the homework and studying for you!",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Heart Cologne",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/167.png",
+    "info": "Apply this cologne to a doll, and you39ll be able to understand the feelings in its heart.",
+    "category": "Combat"
+  },
+  {
+    "name": "Photo Suction Stick",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/168.png",
+    "info": "The gadget allows the user to pull a person out from a photograph. The user has to push the button on the stick to return the person back inside the photograph.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Come Here Cat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/169.png",
+    "info": "Like a welcoming cat, this will bring you customers that you want to your buisness.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Transformation Ring And Cards",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/170.png",
+    "info": "Insert one of the included cards with a picture of an animal on it into the slot and step through this ring.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Story Badge",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/171.png",
+    "info": "The Badge in the book make user meet the story main character story.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Real 3D Glasses",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/172.png",
+    "info": "When wearing it while watching, all of the objects and people there will emerge out of the TV like a 3D dimensional image.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Nose Tube",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/173.png",
+    "info": "Fill your nose with this little thing, you will be able to breath in the water.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Blackhole Pen & WhiteholePen",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/174.png",
+    "info": "Draw a circle with the blackhole pen and make it suck something inside and it will come out of the circle drawn with the white hole pen.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Robot-Ter",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/175.png",
+    "info": "Tiny granules which each contain a computer. Attach one to a non-moving object, and it will give the object the instruction set it needs to move just like a robot.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "The PuppetMasters Camera",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/176.png",
+    "info": "Take someones picute and its replica doll of that person will come out of the camera immediately. Anything you do to the doll, will refelct to the actual person.",
+    "category": "Combat"
+  },
+  {
+    "name": "Later Candy",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/177.png",
+    "info": "This gadget is used to convey a message to anyone at anytime.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Ataru Gun",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/178.png",
+    "info": "The gun shoots big round homing bullets with eyes which hits the enemy no matter where they go.",
+    "category": "Combat"
+  },
+  {
+    "name": "Blowback Bobby",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/179.png",
+    "info": "Put a dime in and call out a name who you want to trip. The Tripibnator will trip the person three times no matter what. To cancel, out in a dollar.",
+    "category": "Combat"
+  },
+  {
+    "name": "Rescue Bottle",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/180.png",
+    "info": "This is one of the example, If there is a people lost or missing in a snowstorm. You will used this to rescue the one.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Watermelon Pen",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/181.png",
+    "info": "It used to make anything turn into watermelon.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Great Illusionist Gear",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/182.png",
+    "info": "Wear this and youll become a Master of Illusions. Youll have to write a letter of challenge before your attempt.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Psy Controller",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/183.png",
+    "info": "The gadget (apparently) used by just holding the chip in the hand, and it will use the user39s brain pulses to control a robot.",
+    "category": "Combat"
+  },
+  {
+    "name": "Rank Badges",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/184.png",
+    "info": "The person with the highest ranked badge must be obeyed by the people who wear lower ranked badges than this person. ",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Confidence Eliminator",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/185.png",
+    "info": "Confidence Eliminatoris a gadget. A machine that emits \"Confidence-Eliminating Waves\" when switched on.",
+    "category": "Combat"
+  },
+  {
+    "name": "Good Points Choice Board",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/186.png",
+    "info": "The user can increase or decrease his/her own looks (L), power (P) and intelligence (IQ) using this gadget by raising the bar of the specific quality.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Picky Eater Corrector",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/187.png",
+    "info": "This tool makes you eat food that isnt usually your taste.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Image Beret",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/188.png",
+    "info": "By wearing the beret, a person can create a replica of the thing that they39re thinking about.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Rain Cloud Maker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/189.png",
+    "info": "It can produce clouds that are going to rain.",
+    "category": "Combat"
+  },
+  {
+    "name": "Connection Cap",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/190.png",
+    "info": "Wear this cap and you'll be able to get to know any one person.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Mini-Doras",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/191.png",
+    "info": "Being smaller clones of Doraemon with different paint jobs, they are sentiment automatons that act as tiny helpers.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Portable Ski Slope",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/192.png",
+    "info": "It makes it possible to practice skiing from right in your own home. If you change direction, the belt will change directions along with you.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Equality Missile",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/193.png",
+    "info": "Extract and boil down some of the dirt under a person39s fingernails, and load it into this missile.",
+    "category": "Combat"
+  },
+  {
+    "name": "Reset Roller",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/194.png",
+    "info": "This dice will make you rewind time equal to the number you roll. You can optionally restore the changes you have made in the past back to the way it is.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Forgetterator",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/195.png",
+    "info": "Hit a head with this stick and itll make the person forget what happened in the last 10 minutes.",
+    "category": "Combat"
+  },
+  {
+    "name": "Hypnotizing Megaphone",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/196.png",
+    "info": "Hypnotizing Megaphoneis a gadget that can place any kind of non-living object into a state of hypnosis.",
+    "category": "Combat"
+  },
+  {
+    "name": "Pr",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/197.png",
+    "info": "PRis a gadget that is an expert in public relations. Tell it something you want publicized, or want people to believe.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Substitution Sticker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/198.png",
+    "info": "The stickers allow their user to substitute an item for another by writing that object39s name on the sticker, and applying the sticker to an item that they want to \"substitute\". ",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Assorted Monsters",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/199.png",
+    "info": "A case containing many varieties of monsters which will become the ally of whoever holds it.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Instant Delivery Machine",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/200.png",
+    "info": "Place an object on the board and this machine will send it to the place displayed on the monitor.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Reverse Cloak",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/201.png",
+    "info": "It used to reverse an attack to backfire/bounce back to the attacker by waving it in front of things coming up.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Abekonbe",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/202.png",
+    "info": "The Abekonbe is a gadget that resembles an arrow with two heads on each opposing sides. It is used to reverse or 39turn39 an object39s function, position or action.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Nature Plastic Model Series",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/203.png",
+    "info": "Each plastic model comes with a pedestal and two halves of an egg shell. One has to set up the pedestal and place the egg shell on the pedestal for the growth process to occur.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Energy Valve",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/204.png",
+    "info": "This gadget is used to increase the usual flow of energy.",
+    "category": "Combat"
+  },
+  {
+    "name": "Gulliver Tunnel",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/205.png",
+    "info": "Enter the wide side of the tunnel and go out of the other, and youll become mini-sized. Go through it the other way and youre back to normal.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Singing Birds Buns",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/206.png",
+    "info": "The item is a light piece of consumable that temporarily adjusts the user39s voice and greatly improves its quality.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Horizon Tape",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/207.png",
+    "info": "It can be used to create an endless huge area that clearly shows the land meeting the sky i.e. the horizon.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Jack Bean",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/208.png",
+    "info": "It acts like the bean in the traditional fairytale Jack and the Beanstalk.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Ultra Ring",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/209.png",
+    "info": "It is said to make the user thousands of times stronger.",
+    "category": "Combat"
+  },
+  {
+    "name": "Resignation Carrot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/210.png",
+    "info": "This gadget is used to make someone resign from his/her position.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Inventing Machine",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/211.png",
+    "info": "Place an order with this machine for any kind of secret gadget you want, and it will invent the gadget and output the plans for the new invention.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Obedience Hat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/212.png",
+    "info": "The Obedience Hat contains two types. Whoever wears the one with the reticle will be forced to obey all commands of whoever wears the one with the arrow.",
+    "category": "Combat"
+  },
+  {
+    "name": "Mecha Maker",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/213.png",
+    "info": "Insert a blueprint and raw materials into it and it will create something exactly like the drawing.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Super Chopsticks",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/214.png",
+    "info": "It is a future eating utensil which has same function with original chopsticks. But it can extended wherever the user wants like bridge.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Ultra Special Mighty Strong Super Armor",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/215.png",
+    "info": "It is said to be an invisible gadget which only wise people can see, and wearing this armor can make the user invincible.",
+    "category": "Combat"
+  },
+  {
+    "name": "Family Box",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/216.png",
+    "info": "It allows the user to swap any of their family members with another person39s family member.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "SpaceLifeboat",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/217.png",
+    "info": "This is your escape spacepod in times of danger, like when the earth is going to explode! This would automatically take you to a planet where people would be able to live.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Cloud Chow",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/218.png",
+    "info": "Clouds love to eat this! Use this as bait to catch them.",
+    "category": "Daily-Use"
+  },
+  {
+    "name": "Copy Robot",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/219.png",
+    "info": "It can mimic multiple attributes of its target, from appearance and physiology to psychology and sentience. ",
+    "category": "Transformation"
+  },
+  {
+    "name": "Fish Go-Go Gate",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/220.png",
+    "info": "Set this up in the ocean, and the sea creatures there will swim through it, come out of the Come-Come Gate, and be able to swim through the ground.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Somewhere Door",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/221.png",
+    "info": "Essentially the opposite of the Anywhere Door, the Somewhere Door opens a portal to a random location, but is otherwise similar in terms of functionality.",
+    "category": "Time-Space"
+  },
+  {
+    "name": "Werewolf Cream",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/222.png",
+    "info": "Rub this on your face and look at something round  and youll turn into the face of a wolf!",
+    "category": "Transformation"
+  },
+  {
+    "name": "Like A Rock Cap",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/223.png",
+    "info": "Put this cap on and youll be like a pebble on a roadside  no one would notice or care for you.",
+    "category": "Transformation"
+  },
+  {
+    "name": "Wishing Star",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/224.png",
+    "info": "TheWishing Starflies to the person calling it and can grant his wishes. However, it is a subject of misunderstandings.",
+    "category": "Combat"
+  },
+  {
+    "name": "Justice Rope",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/225.png",
+    "info": "Plant one of these seeds in soil, water it, and a vine-cyborg will grow. The cyborg will punish people who do wrong by tying them up for you.",
+    "category": "Combat"
+  },
+  {
+    "name": "Dictator Switch",
+    "image": "https://raw.githubusercontent.com/sharadTT/doraemon-gadgets/main/images/gadget-images/226.png",
+    "info": "The switch is capable of removing whatever subjects from existence at the user39s demand and the effect can be undone by pressing it again.",
+    "category": "Combat"
   }
 ]

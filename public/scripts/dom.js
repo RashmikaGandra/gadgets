@@ -14,7 +14,11 @@ export const createFragments = ([tag, attrs, ...content]) => {
 export const ELEMENTS = {
   "DIV": "div",
   "H3": "h3",
+  "H4": "h4",
   "SPAN": "span",
   "P": "p",
   "IMG": "img",
+  "UL": "ul",
+  "LI": "li",
+  "A": "a",
 };

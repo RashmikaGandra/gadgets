@@ -1,20 +1,25 @@
 * {
   margin: 0px;
   padding: 0px;
+  border: 0px;
+  font-family: sans-serif;
 }
 
 header {
   background-image: linear-gradient(white, rgba(135, 207, 235, 0.4));
-  height: 10%;
   text-align: center;
-  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+  margin: 3.5em 0;
   font-weight: 800;
 }
 
-.main-container {
-  background-color: white;
-  margin: 60px 10px 10px 10px;
-  padding: 30px 10px;
+.search-bar {
+  width: 65%;
+  height: 20%;
+  margin: 0 auto;
+  background-color: rgba(135, 207, 235, 0.446);
+  margin-bottom: 50px;
+  border-radius: 15px;
 }
 
 .gadget-container {
@@ -27,7 +32,7 @@ header {
   height: 20%;
   margin: 0 auto;
   border-radius: 8px;
-  align-items:center;
+  align-items: center;
   border: 1px solid #999;
   margin-bottom: 50px;
 }
@@ -70,6 +75,21 @@ header {
   margin-top: 10px;
   padding: 10px;
   border-radius: 25px;
-  background-color: rgba(36, 169, 203, 0.991);
   font-weight: 400;
+}
+
+.Time-Space {
+  background-color: rgba(36, 169, 203, 0.991);
+}
+
+.Daily-Use {
+  background-color: lightseagreen;
+}
+
+.Combat {
+  background-color: rgba(128, 0, 128, 0.75);
+}
+
+.Transformation {
+  background-color: rgba(255, 68, 0, 0.782);
 }
